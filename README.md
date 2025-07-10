@@ -39,10 +39,10 @@
 <p align="left">
 I'm JR  
 <br><br>
-<li>- 🔭 A Full Stack Developer<li>
-<li>- ₿ Bitcoin enthusiast and active member of the Dada Devs community<li>
-<li>- 📚 I'm currently taking a Software Development course in PLP Academy<li>
-<li>- ⚡ In my free time I Debug,learn about Bitcoin, and contribute to open-source tech<li>
+<li> 🔭 A Full Stack Developer<li>
+<li> ₿ Bitcoin enthusiast and active member of the Dada Devs community<li>
+<li> 📚 I'm currently taking a Software Development course in PLP Academy<li>
+<li> ⚡ In my free time I Debug,learn about Bitcoin, and contribute to open-source tech<li>
 </p>
 
 ###
@@ -89,8 +89,8 @@ I'm JR
 <p align="left">
 🔍 🎯 Focused on building clean, scalable apps  
 <br><br>
-<li>- 🛠 Tools: Docker, GitHub Actions, SQL Server<li>
-<li>- 🚀 Exploring .NET, Node js, and Python<li>
-<li>- ₿ Passionate about Bitcoin education and development<li> 
-<li>- 📚 Learning: Automated Testing & CI/CD Best Practices<li>
+<li> 🛠 Tools: Docker, GitHub Actions, SQL Server<li>
+<li> 🚀 Exploring .NET, Node js, and Python<li>
+<li> ₿ Passionate about Bitcoin education and development<li> 
+<li> 📚 Learning: Automated Testing & CI/CD Best Practices<li>
 </p>
