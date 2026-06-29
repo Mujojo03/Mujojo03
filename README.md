@@ -22,8 +22,6 @@ Building reliable software, improving quality through testing and automation, an
 
 <br>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=jane-rose-username)
-
 </div>
 
 ---
