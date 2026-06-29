@@ -37,7 +37,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-I'm JR  
+I'm Jane Rose  
 <br><br>
   <ul>
     <li> 🔭 A Full Stack Developer</li>
