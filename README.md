@@ -9,8 +9,6 @@ Building scalable applications, contributing to open source, and exploring AI-po
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jane-r-72a7a5253/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/mujojojayar)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=jane-rose-username)
-
 </div>
 
 ---
