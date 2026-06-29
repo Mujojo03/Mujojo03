@@ -1,13 +1,28 @@
+# <div align="center">Hi, I'm Jane Rose 👋</div>
+
 <div align="center">
 
-# Hi, I'm Jane Rose 👋
+### **Software Engineer | Quality Assurance Analyst | Mobile & Backend Developer | AI & Automation**
 
-### Software Engineer • Mobile • Backend • AI Engineering
+Building reliable software, improving quality through testing and automation, and exploring AI-powered engineering solutions.
 
-Building scalable applications, contributing to open source, and exploring AI-powered software engineering.
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jane-r-72a7a5253/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/mujojojayar)
+<a href="mailto:janerose.muthoni003@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jane-r-72a7a5253/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/mujojojayar">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<br>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=jane-rose-username)
 
 </div>
 
@@ -15,19 +30,46 @@ Building scalable applications, contributing to open source, and exploring AI-po
 
 # 👩‍💻 About Me
 
-I'm a Software Engineer passionate about building reliable, scalable software across mobile, backend, and AI-powered applications that improve everyday experience
-I enjoy solving real-world problems through clean architecture, thoughtful design, and open-source collaboration. 
-My interests include Flutter development, backend engineering, Bitcoin technologies, and AI-assisted software development.
+I'm a Software Engineer and Quality Assurance Analyst passionate about building reliable, scalable, and user-focused software.
+
+My experience spans mobile application development, backend engineering, software quality assurance, and AI-assisted development. I enjoy designing clean architectures, developing production-ready applications, and ensuring software quality through manual testing, automation, and continuous integration practices.
+
+I'm also actively exploring AI Agents, Prompt Engineering, and Bitcoin development while contributing to open-source software that solves real-world problems.
 
 ---
 
 # 🚀 Current Focus
 
-- 📱 Building cross-platform mobile applications with Flutter
-- ⚙️ Designing scalable backend systems
-- 🤖 Building AI Agents and exploring Prompt Engineering
-- ₿ Contributing to Bitcoin-related open-source projects
-- ☁️ Learning cloud-native development and DevOps practices
+* 📱 Building cross-platform mobile applications with Flutter
+* ⚙️ Designing scalable backend systems
+* 🤖 Building AI Agents and Prompt Engineering workflows
+* ₿ Contributing to Bitcoin open-source projects
+* ☁️ Improving DevOps and CI/CD practices
+* 🧪 Expanding software test automation
+
+---
+
+# 💼 Professional Experience Highlights
+
+### 🔍 Quality Assurance
+
+* Executed 50+ manual test cases across production web applications.
+* Conducted exploratory testing and build validation testing.
+* Performed API testing using Postman.
+* Reported and verified critical defects before production releases.
+* Collaborated closely with developers to reproduce and validate fixes.
+
+### 🤖 Test Automation
+
+* Built automated regression tests using Selenium and Playwright.
+* Improved testing efficiency through automation.
+* Supported CI/CD validation using Azure DevOps and GitHub Actions.
+
+### 🛠 Technical Investigation
+
+* Conducted root cause analysis using logs, API responses, and application behavior.
+* Investigated workflow and compatibility issues.
+* Produced detailed bug reports with reproducible steps.
 
 ---
 
@@ -83,6 +125,24 @@ My interests include Flutter development, backend engineering, Bitcoin technolog
 
 ---
 
+## 🧪 Testing & Quality Assurance
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Manual_Testing-00599C?style=for-the-badge"/>
+
+</p>
+
+---
+
 ## ⚡ DevOps & Tools
 
 <p align="center">
@@ -103,68 +163,44 @@ My interests include Flutter development, backend engineering, Bitcoin technolog
 
 ---
 
-## 🤖 AI Engineering
+# 🤖 AI & Emerging Technologies
 
-- AI Agents
-- Prompt Engineering
-- LLM Workflows
-- AI-assisted Software Development
+* AI Agents
+* Prompt Engineering
+* LLM Workflows
+* AI-assisted Software Development
+* Developer Productivity Automation
 
 ---
 
 # 🌱 Currently Learning
 
-- Advanced Flutter Architecture
-- AI Agent Systems
-- Bitcoin Development
-- Cloud & DevOps
-- Scalable Backend Design
+* Advanced Flutter Architecture
+* AI Agent Systems
+* Bitcoin Development
+* Scalable Backend Design
+* Cloud & DevOps Best Practices
 
 ---
 
-# 🤝 Open Source
+# 🚀 Featured Interests
 
-I enjoy collaborating on open-source software, especially projects related to:
-
-- Mobile Applications
-- Backend APIs
-- Bitcoin
-- Developer Tooling
-- AI Engineering
-
----
-
-## 🚀 Featured Projects
-
-### 🚍 Matatu Link
-A public transport platform built with Flutter and Supabase, enabling passengers and conductors to manage routes, bookings, and live vehicle information.
-
-### ₿ SiriScore
-A Bitcoin privacy scoring CLI that analyzes transaction privacy heuristics with optional Bitcoin Core RPC integration.
-
-### 🤖 AI Development
-Building AI-powered workflows, prompt-engineering solutions, and automation tools using large language models.
+* Mobile Development
+* Backend Engineering
+* Software Quality
+* Open Source
+* Bitcoin Development
+* AI Engineering
+* Developer Tooling
 
 ---
 
-## 📫 Let's Connect
-
-<p align="center">
-
-<a href="mailto:janerose.muthoni003@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/jane-r-72a7a5253/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://x.com/mujojojayar">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-</p>
+# 📫 Let's Connect
 
 📧 **Email:** **[janerose.muthoni003@gmail.com](mailto:janerose.muthoni003@gmail.com)**
 
-I'm always open to discussing software engineering, open-source collaboration, Flutter, backend development, Bitcoin, and AI engineering opportunities.
+💼 LinkedIn: https://www.linkedin.com/in/jane-r-72a7a5253/
+
+🐦 X: https://x.com/mujojojayar
+
+I'm always open to collaborating on software engineering, quality engineering, AI, Flutter, backend, and open-source projects.
