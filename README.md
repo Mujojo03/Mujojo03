@@ -193,6 +193,20 @@ I'm also actively exploring AI Agents, Prompt Engineering, and Bitcoin developme
 
 ---
 
+## 🚀 Featured Projects
+
+### 🚍 Matatu Link
+A public transport platform built with Flutter and Supabase, enabling passengers and conductors to manage routes, bookings, and live vehicle information.
+
+### ₿ SiriScore
+A Bitcoin privacy scoring CLI that analyzes transaction privacy heuristics with optional Bitcoin Core RPC integration.
+
+### 🤖 AI Development
+Building AI-powered workflows, prompt-engineering solutions, and automation tools using large language models.
+
+---
+
+
 # 📫 Let's Connect
 
 📧 **Email:** **[janerose.muthoni003@gmail.com](mailto:janerose.muthoni003@gmail.com)**
