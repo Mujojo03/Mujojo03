@@ -136,9 +136,24 @@ I enjoy collaborating on open-source software, especially projects related to:
 
 ---
 
-# 📫 Let's Connect
+## 📫 Let's Connect
 
-- LinkedIn
-- X (Twitter)
+<p align="center">
 
-I'm always open to collaborating on interesting software projects and open-source initiatives.
+<a href="mailto:janerose.muthoni003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/jane-r-72a7a5253/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/mujojojayar">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+</p>
+
+📧 **Email:** **[janerose.muthoni003@gmail.com](mailto:janerose.muthoni003@gmail.com)**
+
+I'm always open to discussing software engineering, open-source collaboration, Flutter, backend development, Bitcoin, and AI engineering opportunities.
