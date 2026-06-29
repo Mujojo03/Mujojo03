@@ -1,101 +1,144 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
+# Hi, I'm Jane Rose 👋
+
+### Software Engineer • Mobile • Backend • AI Engineering
+
+Building scalable applications, contributing to open source, and exploring AI-powered software engineering.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jane-r-72a7a5253/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/mujojojayar)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=jane-rose-username)
+
 </div>
 
-###
+---
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/jane-r-72a7a5253/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://x.com/mujojojayar" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28" alt="Twitter" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+# 👩‍💻 About Me
 
+I'm a Software Engineer passionate about building reliable, scalable software across mobile, backend, and AI-powered applications that improve everyday experience
+I enjoy solving real-world problems through clean architecture, thoughtful design, and open-source collaboration. 
+My interests include Flutter development, backend engineering, Bitcoin technologies, and AI-assisted software development.
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jane-rose-username" />
-</div>
+# 🚀 Current Focus
 
-###
+- 📱 Building cross-platform mobile applications with Flutter
+- ⚙️ Designing scalable backend systems
+- 🤖 Building AI Agents and exploring Prompt Engineering
+- ₿ Contributing to Bitcoin-related open-source projects
+- ☁️ Learning cloud-native development and DevOps practices
 
-<h1 align="center">Hey There 👋</h1>
+---
 
-###
+# 🛠 Tech Stack
 
-<h3 align="left">👩‍💻 About Me</h3>
+## 💻 Programming Languages
 
-<p align="left">
-I'm Jane Rose  
-<br><br>
-  <ul>
-    <li> 🔭 A Full Stack Developer</li>
-    <li> ₿ Bitcoin enthusiast and active member of the Dada Devs community</li>
-    <li> 📚 I'm currently taking a Software Development course in PLP Academy</li>
-    <li> ⚡ In my free time I Debug, learn about Bitcoin, and contribute to open-source tech</li>
-  </ul>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 </p>
 
-###
+---
 
-<h3 align="center">🛠 Tech Stack Overview</h3>
+## ⚙️ Frameworks & Libraries
 
-<!-- 🧑‍💻 Programming Languages -->
-<h4 align="center">🧑‍💻 Programming Languages</h4>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</div>
+<p align="center">
 
-<!-- ⚙️ Frameworks & Libraries -->
-<h4 align="center">⚙️ Frameworks & Libraries</h4>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</div>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-<!-- 🗃️ Databases -->
-<h4 align="center">🗃️ Databases</h4>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-</div>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
 
-<!-- 🛠 DevOps & Tools -->
-<h4 align="center">🛠 DevOps & Tools</h4>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
 
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
 
-###
-
-<h3 align="left">🔥 My Stats :</h3>
-
-<p align="left">
-🔍 🎯 Focused on building clean, scalable apps  
-<br><br>
-  <ul>
-    <li> 🔍 🎯 Focused on building clean, scalable apps</li>
-    <li> 🛠 Tools: Docker, GitHub Actions, SQL Server</li>
-    <li> 🚀 Exploring .NET, Node js, and Python</li>
-    <li> ₿ Passionate about Bitcoin education and development</li>
-    <li> 📚 Learning: Automated Testing & CI/CD Best Practices</li>
-  </ul>
 </p>
+
+---
+
+## 🗄 Databases
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+</p>
+
+---
+
+## ⚡ DevOps & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+</p>
+
+---
+
+## 🤖 AI Engineering
+
+- AI Agents
+- Prompt Engineering
+- LLM Workflows
+- AI-assisted Software Development
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Flutter Architecture
+- AI Agent Systems
+- Bitcoin Development
+- Cloud & DevOps
+- Scalable Backend Design
+
+---
+
+# 🤝 Open Source
+
+I enjoy collaborating on open-source software, especially projects related to:
+
+- Mobile Applications
+- Backend APIs
+- Bitcoin
+- Developer Tooling
+- AI Engineering
+
+---
+
+# 📫 Let's Connect
+
+- LinkedIn
+- X (Twitter)
+
+I'm always open to collaborating on interesting software projects and open-source initiatives.
