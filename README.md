@@ -134,6 +134,19 @@ I enjoy collaborating on open-source software, especially projects related to:
 
 ---
 
+## 🚀 Featured Projects
+
+### 🚍 Matatu Link
+A public transport platform built with Flutter and Supabase, enabling passengers and conductors to manage routes, bookings, and live vehicle information.
+
+### ₿ SiriScore
+A Bitcoin privacy scoring CLI that analyzes transaction privacy heuristics with optional Bitcoin Core RPC integration.
+
+### 🤖 AI Development
+Building AI-powered workflows, prompt-engineering solutions, and automation tools using large language models.
+
+---
+
 ## 📫 Let's Connect
 
 <p align="center">
